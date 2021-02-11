@@ -503,7 +503,7 @@ class Home extends Component {
           </div>
         </div>
         <div className={`${classes.footer} footer`}>
-          <Typography variant={"h4"}>PlanetX 2020</Typography>
+          <Typography variant={"h4"}>PlanetX 2021</Typography>
         </div>
         {modalOpen && this.renderModal(address)}
       </div>
